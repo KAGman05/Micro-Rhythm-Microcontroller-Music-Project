@@ -1,5 +1,6 @@
 # Micro-Rhythm-Microcontroller-Music-Project
 A rhythm-based game using Bluetooth input, LCD prompts, servo movement, and speaker audio playback.
+
 Original conceptualization: I wanted to create a rhythm game where the player has to stay focused and hit the correct inputs at the right time.
 
 Description: The speakers are used to play a song, specificallyiItsy bitsy spider. While the song plays, the LCD board displays text telling the player which direction to input. The Bluetooth mechanic is used so the player can enter values representing “Up,” “Left,” and “Right.” When these inputs are entered, they change the direction of the servo, which has an arrow attached to it.
